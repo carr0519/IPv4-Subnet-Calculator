@@ -43,7 +43,8 @@ public class SubnetCalculator extends JFrame
 		 * 2nd layer containers: topPanel, bottomPanel
 		 * 3rd layer containers: topLeftPanel, topRightPanel, bottomLeftPanel, bottomRightPanel, statusPanel
 		 * 4th layer containers: radioButtonPanel, calculatePanel, textFieldPanel
-		 * 
+		 *
+		 *
 		 * 			L1											ContentPane
 		 * 												       /           \
 		 * 													  /             \
